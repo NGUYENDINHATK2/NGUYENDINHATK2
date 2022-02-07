@@ -18,5 +18,8 @@
 
 <img src="https://img5.goodfon.com/wallpaper/nbig/1/58/genshin-impact-kamisato-ayaka-devushka-veer-solntse.jpg" alt="dev" width="100%"/>
 
-
+<video width="320" height="240" controls>
+  <source src="https://www.w3schools.com/tags/movie.mp4" type="video/mp4">
+  Trình duyệt của bạn không hỗ trợ HTML5.
+</video>
 
