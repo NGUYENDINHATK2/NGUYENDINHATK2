@@ -5,7 +5,7 @@
 
 - ✍ I'm a student of: VKU.
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I’m currently learning :VKU
 
 
 ## 📫 How to reach me:
