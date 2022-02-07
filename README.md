@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, Nguyen Dinh At K2</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/War7qWXKFuQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <table style="width:100%;">
   <tr>
