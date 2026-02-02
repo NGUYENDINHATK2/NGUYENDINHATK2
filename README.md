@@ -1,13 +1,8 @@
 <!--
-██████╗ ███████╗ █████╗ ██████╗ ███╗   ███╗███████╗
-██╔══██╗██╔════╝██╔══██╗██╔══██╗████╗ ████║██╔════╝
-██████╔╝█████╗  ███████║██║  ██║██╔████╔██║█████╗
-██╔══██╗██╔══╝  ██╔══██║██║  ██║██║╚██╔╝██║██╔══╝
-██║  ██║███████╗██║  ██║██████╔╝██║ ╚═╝ ██║███████╗
-╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝     ╚═╝╚══════╝
-
-✨ Profile README — Nguyen Dinh At
-✅ Replace: GITHUB_USERNAME, YOUR_EMAIL, YOUR_LINKS
+🚀 PROFILE README (clean, no project leaks)
+Replace:
+- GITHUB_USERNAME
+- YOUR_EMAIL / YOUR_LINKS
 -->
 
 
@@ -15,11 +10,11 @@
 <div align="center">
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=Nguyen%20Dinh%20At&fontAlignY=40&desc=Flutter%20%7C%20.NET%20%7C%20Go%20%7C%20GCP%20%7C%20Performance%20Engineering&descAlignY=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=Nguyen%20Dinh%20At&fontAlignY=40&desc=Flutter%20%7C%20.NET%20%7C%20Go%20%7C%20Cloud%20%7C%20Performance&descAlignY=62" width="100%" />
 
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=600&center=true&vCenter=true&width=920&lines=Hi+%F0%9F%91%8B+I'm+Nguyen+Dinh+At;I+build+Flutter+apps+%2B+.NET%2FGo+backends;Obsessed+with+backup%2Fmedia+sync+performance;Microservices+%7C+Cloud+Run+%7C+GKE+%7C+Postgres%20%7C%20Redis;Measure+%E2%86%92+Optimize+%E2%86%92+Measure+again." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2400&pause=550&center=true&vCenter=true&width=920&lines=Hi+%F0%9F%91%8B+I'm+Nguyen+Dinh+At;Flutter+%2B+.NET%2FGo+Engineer;Build+fast+systems+%E2%80%94+sync%2C+stream%2C+scale;Microservices+%7C+Cloud+%7C+Postgres+%7C+Redis;Measure+%E2%86%92+Optimize+%E2%86%92+Measure+again." />
 </p>
 
 
@@ -32,7 +27,7 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
@@ -52,63 +47,52 @@
 </div>
 
 ⸻
-⚡ About me
+⚡ Core skills
 
-- 🧩 Full-stack builder: Flutter (iOS/Android) + .NET / Go (backend)
-- 🚀 Focus: high throughput APIs, massive file sync, streaming uploads
-- 🏗️ Architecture: microservices (Gateway/Auth/Backup/File/Notification), realtime (SignalR)
-- ☁️ Cloud: Cloud Run / GKE, Artifact Registry, Cloud SQL (Postgres), Redis, VPC, IAM
-- 🧪 Perf: k6 / wrk, thread-pool tuning, DB pooling, caching, dashboards
-
-I like systems that feel instant — even when moving terabytes.
+- Mobile (Flutter): performance tuning, background tasks, media handling, deep links, release compliance
+- Backend (.NET / Go): REST/gRPC, auth (JWT), streaming upload/download, realtime, concurrency patterns
+- System design: microservices decomposition, API gateway, rate limit, async workflows, event-driven basics
+- Performance engineering: wrk/k6, p95/p99, thread pool & connection pool tuning, caching strategies
+- Cloud & DevOps: Docker, CI/CD, Cloud Run / Kubernetes, observability (logs/metrics/tracing), IAM & networking
 ⸻
-🧰 Tech Stack
+🧰 Tech stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,cs,dotnet,go,ts,js,nextjs,nodejs,postgres,redis,docker,kubernetes,nginx,linux,gcp,githubactions&perline=9" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,cs,dotnet,go,ts,js,nextjs,nodejs,postgres,redis,docker,kubernetes,nginx,linux,githubactions,gcp&perline=9" />
 </div>
 
 ⸻
-🧠 What I'm building (high impact)
+🧪 Tooling I like
 
-🟦 Memoria — Photo/Video Album & Sharing
-- Flutter apps + Web + microservices on GCP
-- Deep links / universal links + modern share flows
-- Media pipeline + scalable infra
+<p>
+  <img src="https://img.shields.io/badge/k6-load%20testing-7D64FF?style=for-the-badge&logo=k6&logoColor=white" />
+  <img src="https://img.shields.io/badge/wrk-benchmark-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/EF%20Core-Data-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20SQL-Postgres-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-Caching-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
 
-🟩 Lixway — Secure Backup & Personal Data Platform
-- Backup: photos / videos / audio / docs / contacts / settings
-- Core work: speed up DB fetch → JSON parse → parallel processing → streaming upload
-- Heavy optimization on batching, locks/pools, memory pressure, concurrency
-
-🟨 IoT Security (R&D)
-- Edge gateways → MQTT/HTTPS → device shadow → rule engine → alert hub
-- Multi-tenant SaaS vision for smart home / business
 ⸻
 🏎️ Performance mindset
 
-Rule #1: Measure first.
-Rule #2: Optimize the bottleneck.
-Rule #3: Measure again (p95/p99 matter).
-Tools: wrk, k6, flamegraphs, DB EXPLAIN, tracing & dashboards
+- Prefer streaming over buffering
+- Keep pools healthy: CPU threads, DB connections, Redis clients
+- Reduce allocations & JSON overhead when scale grows
+- Profile -> fix bottleneck -> re-test (p95/p99 > average)
 
 ⸻
-🏆 Trophies
+🏆 GitHub trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GITHUB_USERNAME&theme=algolia&no-frame=true&no-bg=true&column=6" />
 </div>
 
 ⸻
-📈 Stats
+📈 GitHub stats
 
 <div align="center">
-
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&rank_icon=github&hide_border=true&bg_color=00000000&text_color=179fa3&icon_color=179fa3" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=compact&hide=css&langs_count=10&hide_border=true&bg_color=00000000&text_color=179fa3" />
-
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&rank_icon=github&hide_border=true&bg_color=00000000&text_color=179fa3&icon_color=179fa3" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=compact&langs_count=10&hide_border=true&bg_color=00000000&text_color=179fa3" />
 </div>
 
 
@@ -117,14 +101,14 @@ Tools: wrk, k6, flamegraphs, DB EXPLAIN, tracing & dashboards
 </div>
 
 ⸻
-📊 Activity Graph (animated look)
+📊 Activity graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GITHUB_USERNAME&bg_color=00000000&color=179fa3&line=179fa3&point=179fa3&area=true&hide_border=true" />
 </div>
 
 ⸻
-🐍 Contribution Snake (animated)
+🐍 Contribution snake (animated)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/GITHUB_USERNAME/GITHUB_USERNAME/output/snake.svg" alt="snake animation" />
@@ -132,7 +116,7 @@ Tools: wrk, k6, flamegraphs, DB EXPLAIN, tracing & dashboards
 
 
 <details>
-<summary><b>⚙️ Enable Snake (click)</b></summary>
+<summary><b>⚙️ Enable Snake Action (optional)</b></summary>
 
 
 Create: <code>.github/workflows/snake.yml</code>
@@ -166,16 +150,12 @@ jobs:
 </details>
 
 ⸻
-🌐 Contact & Links
+🌐 Contact
 
 - Email: YOUR_EMAIL
-- Portfolio: YOUR_PORTFOLIO_LINK
 - LinkedIn: YOUR_LINKEDIN_LINK
+- Portfolio: YOUR_PORTFOLIO_LINK
 ⸻
 <div align="center">
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=115&color=gradient&section=footer&text=Ship%20Fast%20%E2%9A%A1%20Scale%20Hard%20%F0%9F%9A%80%20Stay%20Clean%20%E2%9C%A8&fontAlignY=60" width="100%" />
-
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=gradient&section=footer&text=Ship%20Fast%20%E2%9A%A1%20Scale%20Hard%20%F0%9F%9A%80%20Stay%20Clean%20%E2%9C%A8&fontAlignY=60" width="100%" />
 </div>
