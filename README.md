@@ -128,13 +128,6 @@ Mindset:
 - Optimize bottleneck, not ego
 - p95/p99 > average
 
-⸻
-🏆 GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NGUYENDINHATK2&theme=algolia&no-frame=true&no-bg=true&column=6" />
-</div>
-
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=NGUYENDINHATK2&show_icons=true&rank_icon=github&hide_border=true&bg_color=00000000&text_color=7c3aed&icon_color=22c55e" />
