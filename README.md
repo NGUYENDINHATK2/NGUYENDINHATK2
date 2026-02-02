@@ -151,54 +151,6 @@ Mindset:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NGUYENDINHATK2&bg_color=00000000&color=94a3b8&line=7c3aed&point=ff4d6d&area=true&hide_border=true" />
 </div>
 
-⸻
-🐍 Contribution Snake (animated)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NGUYENDINHATK2/NGUYENDINHATK2/output/snake.svg" alt="snake animation" />
-</p>
-
-
-<details>
-<summary><b>⚙️ Enable Snake Action (optional)</b></summary>
-
-
-Create: <code>.github/workflows/snake.yml</code>
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: NGUYENDINHATK2
-          outputs: |
-            dist/snake.svg
-
-      - name: Publish to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-</details>
-
-⸻
-🌐 Contact
-
-- Email: YOUR_EMAIL
-- LinkedIn: YOUR_LINKEDIN_LINK
-- Portfolio: YOUR_PORTFOLIO_LINK
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=gradient&section=footer&text=Design%20Bold.%20Build%20Fast.%20Scale%20Hard.%20%E2%9C%A8&fontAlignY=60" width="100%" />
