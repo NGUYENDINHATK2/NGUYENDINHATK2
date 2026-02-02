@@ -130,12 +130,6 @@ Mindset:
 
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NGUYENDINHATK2&show_icons=true&rank_icon=github&hide_border=true&bg_color=00000000&text_color=7c3aed&icon_color=22c55e" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NGUYENDINHATK2&layout=compact&langs_count=10&hide_border=true&bg_color=00000000&text_color=06b6d4" />
-</div>
-
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=NGUYENDINHATK2&hide_border=true&background=00000000&ring=ff4d6d&fire=ffb703&currStreakLabel=22c55e&sideLabels=06b6d4&dates=94a3b8" />
 </div>
 
